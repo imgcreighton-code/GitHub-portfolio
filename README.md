@@ -1,5 +1,8 @@
 <h1>Hi, I'm Iris! <br/> <a href="www.linkedin.com/in/iris-creighton-0845bb242">Mathematics Student @ Trinity College, University of Cambridge</a>
 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Band Sheet Music Automation](https://github.com/imgcreighton-code/BandAutomation/edit/main/README.md)
+
 
 Here are some ideas to get you started:
 
